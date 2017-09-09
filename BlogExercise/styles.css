@@ -1,0 +1,34 @@
+body {
+    max-width: 700px;
+    width: 80%;
+    border: 15px solid #B9B7B7;
+    margin: auto;
+    padding: 20px;
+    font-family: Source Sans Pro;
+}
+
+.date {
+    color: #3FC3E4;
+    text-transform: uppercase;
+    font-size: 1.0em;
+    letter-spacing: 0.2rem;
+
+}
+
+h2 {
+    font-size: 2.0em;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 14px;
+}
+
+.quote {
+    border-left: 5px solid #B9B7B7;
+    padding-left: 5px;
+}
+
+hr {
+    size: 1px;
+}

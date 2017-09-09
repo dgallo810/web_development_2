@@ -1,0 +1,12 @@
+body {
+    background-color: orange;
+}
+
+#dog {
+    border: 2px solid black;
+    background-color: green;
+}
+
+.completed {
+    text-decoration: line-through;
+}
